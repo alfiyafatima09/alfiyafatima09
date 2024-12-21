@@ -26,6 +26,7 @@ Building modern, responsive, and user-centric applications.
 
 ---
 
+
 ### Languages and Tools
 
 <p align="left">
@@ -77,4 +78,11 @@ Building modern, responsive, and user-centric applications.
   <a href="https://wakatime.com/@alfiyafatima09">
     <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=alfiyafatima09&langs_count=6&theme=dark&locale=en" alt="WakaTime Stats" />
   </a>
+</div>
+
+
+<div align="center">
+<a href="https://www.leetcode.com/alfiyafatima09">
+    <img src="https://leetcard.jacoblin.cool/alfiyafatima09?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
+</a>
 </div>
