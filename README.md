@@ -15,25 +15,14 @@ Building modern, responsive, and user-centric applications.
 
 ### 📧 How to Reach Me
 
-- **Email:** alfiyafatima200431@gmail.com
+- **Email:** [alfiyafatima200431@gmail.com](mailto:alfiyafatima200431@gmail.com)
 
 ---
 
-### Connect with Me
-<div align="left">
-  <a href="https://linktr.ee/alfiyafatima09">
-    <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="35" alt="Linktree" />
-  </a>
-  <a href="https://www.linkedin.com/in/alfiyafatima09/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/alfiyafatima09">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
-  </a>
-  <a href="mailto:alfiyafatima200431@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</div>
+### 🌐 Find Me on the Internet:
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/alfiyafatima09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiyafatima09/) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/alfiyafatima09) 
 
 ---
 
