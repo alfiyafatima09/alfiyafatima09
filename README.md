@@ -1,31 +1,38 @@
-# Hi 👋, I'm Alfiya Fatima
+# 👋 Hi, I'm **Alfiya Fatima**
+### I’m a developer with an interest in building clear, reliable and user-focused software.
 
-## A Passionate Web Developer
 
-Building modern, responsive, and user-centric applications.
+
+## 🌟 About Me
+- Full-stack developer who enjoys combining **design and engineering**
+- Focused on building **clean, intuitive, user-friendly products**
+- Comfortable working on both **frontend and backend**
+- Problem-solver with a **fast-execution mindset**
+
+
+## ⚙️ Tech Stack
+
+**Languages:**  
+TypeScript · JavaScript · Python · C++
+
+**Frameworks & Libraries:**  
+Next.js · Tailwind CSS · Node.js · Express.js · FastAPI
+
+**Tools & Platforms:**  
+Git/GitHub · Firebase · Azure AI Foundry · MSAL · Vercel
+
+
+## 📬 Connect
+**Email:** alfiyafatima200431@gmail.com  
+**LinkedIn:** https://linkedin.com/in/alfiyafatima09  
+**LeetCode:** https://leetcode.com/u/alfiyafatima09
+
+
+## 🌐 Find Me on the Internet
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/alfiyafatima09)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiyafatima09/)  
 
 ---
-
-### 🌱 Currently Exploring
-
-- **Next.js**
-- **TypeScript**
-
----
-
-### 📧 How to Reach Me
-
-- **Email:** [alfiyafatima200431@gmail.com](mailto:alfiyafatima200431@gmail.com)
-
----
-
-### 🌐 Find Me on the Internet:
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/alfiyafatima09) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiyafatima09/) 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/alfiyafatima09) 
-
----
-
 
 ### Languages and Tools
 
@@ -67,22 +74,3 @@ Building modern, responsive, and user-centric applications.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### GitHub Stats
-<div align="center">
-  <a href="https://github.com/alfiyafatima09">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=alfiyafatima09&theme=dark&locale=en" alt="GitHub Stats" />
-  </a>
-  <a href="https://wakatime.com/@alfiyafatima09">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=alfiyafatima09&langs_count=6&theme=dark&locale=en" alt="WakaTime Stats" />
-  </a>
-</div>
-
-
-<div align="center">
-<a href="https://www.leetcode.com/alfiyafatima09">
-    <img src="https://leetcard.jacoblin.cool/alfiyafatima09?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
-</a>
-</div>
