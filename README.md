@@ -22,17 +22,15 @@ Next.js · Tailwind CSS · Node.js · Express.js · FastAPI
 Git/GitHub · Firebase · Azure AI Foundry · MSAL · Vercel
 
 
-## 📬 Connect
+## Connect
 **Email:** alfiyafatima200431@gmail.com  
 **LinkedIn:** https://linkedin.com/in/alfiyafatima09  
 **LeetCode:** https://leetcode.com/u/alfiyafatima09
 
 
-## 🌐 Find Me on the Internet
+## Find Me on the Internet
 [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/alfiyafatima09)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiyafatima09/)  
-
----
 
 ### Languages and Tools
 
