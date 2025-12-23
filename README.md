@@ -3,7 +3,7 @@
 
 
 
-## 🌟 About Me
+## About Me
 - Full-stack developer who enjoys combining **design and engineering**
 - Focused on building **clean, intuitive, user-friendly products**
 - Comfortable working on both **frontend and backend**
