@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Alfiya Fatima**
+# Hi, I'm **Alfiya Fatima**
 ### I’m a developer with an interest in building clear, reliable and user-focused software.
 
 
@@ -10,7 +10,7 @@
 - Problem-solver with a **fast-execution mindset**
 
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 TypeScript · JavaScript · Python · C++
