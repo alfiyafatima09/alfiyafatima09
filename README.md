@@ -21,19 +21,6 @@ Next.js · Tailwind CSS · Node.js · Express.js · FastAPI
 **Tools & Platforms:**  
 Git/GitHub · Firebase · Azure AI Foundry · MSAL · Vercel
 
-
-## Connect
-**Email:** alfiyafatima200431@gmail.com  
-**LinkedIn:** https://linkedin.com/in/alfiyafatima09  
-**LeetCode:** https://leetcode.com/u/alfiyafatima09
-
-
-## Find Me on the Internet
-[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/alfiyafatima09)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiyafatima09/)  
-
-### Languages and Tools
-
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -72,3 +59,16 @@ Git/GitHub · Firebase · Azure AI Foundry · MSAL · Vercel
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
 </p>
+
+
+## Connect
+**Email:** alfiyafatima200431@gmail.com  
+**LinkedIn:** https://linkedin.com/in/alfiyafatima09  
+**LeetCode:** https://leetcode.com/u/alfiyafatima09
+
+
+## Find Me on the Internet
+[![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/alfiyafatima09)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfiyafatima09/)  
+
+
